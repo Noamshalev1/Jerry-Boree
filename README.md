@@ -1,5 +1,5 @@
 # Jerry-Boree
-continue of "Manage jerries"
+continue of "Manage jerries".
 3 Main Generic ADTs: LinkedList, KeyValuePair and HashTable.
 The MultiValueHash ADT is combine of the three of them. 
 The size of hashtable and multi hashtable decided by the closest prime number of the number of jerries (by a help function I created under main).
